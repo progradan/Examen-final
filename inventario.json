@@ -1,0 +1,57 @@
+[
+    {
+        "nombre": "huevos medio carton 15 und",
+        "cantidad": 1037,
+        "costo": 100.0
+    },
+    {
+        "nombre": "leche descremada uht purisima 1l",
+        "cantidad": 708,
+        "costo": 70.0
+    },
+    {
+        "nombre": "margarina mavesa 500g",
+        "cantidad": 262,
+        "costo": 100.0
+    },
+    {
+        "nombre": "yogurt natural el griego bufalinda 500g",
+        "cantidad": 143,
+        "costo": 200.0
+    },
+    {
+        "nombre": "arroz blanco tradicional mary 900g",
+        "cantidad": 1466,
+        "costo": 50.0
+    },
+    {
+        "nombre": "pasta vermicelli tradicional mary 1kg",
+        "cantidad": 592,
+        "costo": 50.0
+    },
+    {
+        "nombre": "caraotas negras pantera 454g",
+        "cantidad": 46,
+        "costo": 60.0
+    },
+    {
+        "nombre": "azucar refinada montalban 1kg",
+        "cantidad": 2183,
+        "costo": 70.0
+    },
+    {
+        "nombre": "aceite mazeites de 1l",
+        "cantidad": 340,
+        "costo": 145.0
+    },
+    {
+        "nombre": "at\u00fan natural margarita 140g",
+        "cantidad": 396,
+        "costo": 80.0
+    },
+    {
+        "nombre": "cubito de pollo maggi 11.5g 1und",
+        "cantidad": 133,
+        "costo": 20.0
+    }
+]
